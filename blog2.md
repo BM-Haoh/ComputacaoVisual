@@ -1,3 +1,17 @@
+<style>
+  body {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  a {
+    color: #bb86fc !important; /* Cor dos links */
+  }
+  code {
+    background-color: #2d2d2d !important;
+    color: #f1f1f1 !important;
+  }
+</style>
+
 # Filtros de Imagem
 
 Na nossa segunda aula vimos um pouco sobre como podemos representar imagens no computador, o que são pixeis e os conceitos de RGB. Assistindo à aula, me lembrei de uma atividade que havia realizado no início do curso, entre o primeiro e o segundo semestre, relacionado à aplicação de filtros à imagens usando a linguagem C, com alguns algoritmos sobre isso (Atividade proposta pelo curso CC50, de Harvard)

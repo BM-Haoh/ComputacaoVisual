@@ -1,3 +1,17 @@
+<style>
+  body {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  a {
+    color: #bb86fc !important; /* Cor dos links */
+  }
+  code {
+    background-color: #2d2d2d !important;
+    color: #f1f1f1 !important;
+  }
+</style>
+
 # O que é Computação visual?
 
 Minhas primeiras impressões sobre a matéria, ao encontrá-la na minha grade curricular, foi que seriam aulas relacionadas à mexer com programas de animação para criação de ambientes e objetos 3D (eu li errado o nome da matéria, como "Computação Gráfica" ao invés de "Computação Visual", e associei com o "CGI" da animação.)
