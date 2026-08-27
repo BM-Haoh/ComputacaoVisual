@@ -16,7 +16,7 @@
 
 Na nossa segunda aula vimos um pouco sobre como podemos representar imagens no computador, o que são pixels e os conceitos de RGB. Assistindo à aula, me lembrei de uma atividade que havia realizado no início do curso, entre o primeiro e o segundo semestre, relacionado à aplicação de filtros à imagens usando a linguagem C, com alguns algoritmos relacionados (Atividade proposta pelo curso CC50, de Harvard).
 
-Decidi revisitar o minha [Solução](https://github.com/code50/154121560/blob/main/pset4/filter_more/helpers.c) para o problema, e compartilhar os algoritmos encontrados na época.
+Decidi revisitar o minha solução para o problema, e compartilhar os algoritmos encontrados na época.
 
 Obs: As imagens eram representadas por uma matriz de pixels com altura e largura, e os Pixels eram representados por uma estrutura `RGBTRIPLE`, que continha os campos `rgbtBlue` (Azul), `rgbtGreen` (Verde) e `rgbtRed` (Vermelho), em que cada um será um valor entre 0 e 255 representando a intensidade de cada cor.
 
