@@ -18,3 +18,4 @@
   1. [O que é Computação Visual?](./blog1.md)
   2. [Filtros de Imagem](./blog2.md)
   3. [Equalização de Histograma](./blog3.md)
+  4. [DLSS](./blog4.md)
