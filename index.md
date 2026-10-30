@@ -21,3 +21,4 @@
   4. [DLSS](./blog4.md)
   5. [Resumão primeiro bimestre](./blog5.md)
   6. [Domínio da Frequência e Transformada de Fourier](./blog6.md)
+  7. [Shaders](./blog7.md)
